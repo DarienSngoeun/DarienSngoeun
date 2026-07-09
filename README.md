@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Darien, a software engineer based in the United States.
+I'm Darien, a software engineer based in the United States of America.
 
 I mainly have experience in frontend but I'm starting to transition into becoming an Ai Engineer.
 
