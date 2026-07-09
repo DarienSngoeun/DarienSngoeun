@@ -6,7 +6,7 @@ I mainly have experience in frontend but I'm starting to transition into becomin
 I've also been learning UiPath to automate simple things for fun
 
 ## Tools & Tech
-- HTML, CSS, Javascript, React, SQL
+- HTML, CSS, Javascript, React, Python, SQL
 - Jira, Confluence
 - UiPath for Automation
 
