@@ -1,4 +1,19 @@
 ## Hi there 👋
+I'm Darien, a software engineer based in the United States.
+
+I mainly have experience in frontend but I'm starting to transition into becoming an Ai Engineer.
+
+I've also been learning UiPath to automate simple things for fun
+
+## Tools & Tech
+- HTML, CSS, Javascript, React, SQL
+- Jira, Confluence
+- UiPath for Automation
+
+## Fun Facts
+- 🐕 I have a dog
+- 🕺 Do hip-hop dances
+- 🎮 My favorite game is FF7
 
 <!--
 **DarienSngoeun/DarienSngoeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
